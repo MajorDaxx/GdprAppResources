@@ -1,4 +1,4 @@
-Kunden-Nr.:{{KUNDENUMMER}}
+Kunden-Nr.:{$KUNDENUMMER}
 
 Sehr geehrte Damen und Herren,
 ich bitte um Auskunft darüber, ob Sie personenbezogene Daten über meine Person gespeichert
@@ -26,4 +26,4 @@ haben. Sollte dies der Fall sein, bitte ich um Auskunft darüber,
 	personenbezogenen Daten zur Verfügung.
 	
 Mit freundlichen Grüßen
-{{SURNAME}} {{LAST_NAME}}
+{$SURNAME} {$LAST_NAME}
